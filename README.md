@@ -1,0 +1,1 @@
+# Generalized_Image_Classifier_Template_Pytorch
